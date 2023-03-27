@@ -18,7 +18,7 @@ Manga Search is a web application that allows users to search for their favorite
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/mrtlive/book-search.git`
+1. Clone the repository: `git clone https://github.com/mrtlive/manga-search-typescript.git`
 2. Install dependencies: `npm i`
 3. Start the development server: `npm run dev`
 
